@@ -1,0 +1,4 @@
+id,name,salary,start_date,dept
+1,John,5000,2022-01-01,IT
+2,Jane,6000,2022-02-01,Finance
+3,Mark,5500,2022-03-01,Operations
